@@ -1,4 +1,4 @@
-# Zosh Food
+# kravers 
 
 1. **User:**
     - ID (Auto-generated)
@@ -47,38 +47,7 @@
     - Quantity
     - Subtotal
     - Order (reference to Order entity)
-6. **Payment:**
-    - ID (Auto-generated)
-    - Order (reference to Order entity)
-    - Payment Method
-    - Payment Status
-    - Total Amount
-    - Payment Timestamp
-7. **~~Delivery Executive:~~**
-    - ~~ID (Auto-generated)~~
-    - ~~Name~~
-    - ~~Contact Information~~
-    - ~~Availability Status~~
-    - ~~Current Location (Latitude and Longitude)~~
-8. **Review/Rating:**
-    - ID (Auto-generated)
-    - Customer (reference to User entity)
-    - Restaurant (reference to Restaurant entity)
-    - Rating
-    - Review Text
-    - Timestamp
-9. **Promotion/Coupon:**
-    - ID (Auto-generated)
-    - Code
-    - Discount Amount
-    - Validity Period
-    - Terms and Conditions
-10. **Notification:**
-    - ID (Auto-generated)
-    - Recipient (reference to User, Restaurant, or Delivery Executive entity)
-    - Message
-    - Timestamp
-    - Read Status
+6. 
 11. **Category:**
     - ID (Auto-generated)
     - Name

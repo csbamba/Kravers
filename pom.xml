@@ -8,10 +8,10 @@
 		<version>3.1.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.zosh</groupId>
-	<artifactId>zosh-food</artifactId>
+	<groupId>com.kravers</groupId>
+	<artifactId>kravers-food</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zosh-food</name>
+	<name>kravers-food</name>
 	<description>online food delivery system</description>
 	<properties>
 		<java.version>17</java.version>
